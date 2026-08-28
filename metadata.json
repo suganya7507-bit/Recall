@@ -1,0 +1,10 @@
+{
+  "name": "Recall",
+  "description": "An offline-first mobile app prototype designed for elderly dementia patients in Northeast India featuring cognitive memory games, interactive memory album with voice notes, daily routines and reminders, and caregiver wellbeing dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
